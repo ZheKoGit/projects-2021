@@ -1,1 +1,1 @@
-travel-blog-grid/index.html
+## [Блог путешествий](https://zhekogit.github.io/projects-2021/travel-blog-grid/index.html)
